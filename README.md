@@ -7,6 +7,23 @@
 一技術者として、サービスで使われているありとあらゆる技術を学び続けていきたい。
 計算機科学や数学の基礎知識、トレンドの技術、共に学習し続け、結果としてチームや会社に貢献できるようになりたい。
 
+## 技術スタック
+
+<p>
+  <img src="https://img.shields.io/badge/-Golang-F0FFF0.svg?logo=Go&style=plastic">
+  <img src="https://img.shields.io/badge/-TypeScript-FFFFE0.svg?logo=TypeScript&style=plastic">
+  <img src="https://img.shields.io/badge/-Python-FFD700.svg?logo=Python&style=plastic">
+  <img src="https://img.shields.io/badge/-Java-000000.svg?logo=OpenJDK&style=plastic">
+  <img src="https://img.shields.io/badge/-Groovy-E6E6FA.svg?logo=Apache%20Groovy&style=plastic">
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/-AWS-FFA500.svg?logo=Amazon%20AWS&style=plastic">
+  <img src="https://img.shields.io/badge/-GCP-F8F8FF.svg?logo=googlecloud&style=plastic">
+  <img src="https://img.shields.io/badge/-Docker-F0F8FF.svg?logo=Docker&style=plastic">
+  <img src="https://img.shields.io/badge/-Terraform-FFF0F5.svg?logo=Terraform&style=plastic">
+</p>
+
 ## 職歴
 
 **『詳細』をクリックすることで、各プロジェクトの詳細情報を閲覧できます**
