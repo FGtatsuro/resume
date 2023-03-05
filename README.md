@@ -512,7 +512,7 @@ Hadoop管理ノードの冗長化に関する調査を担当した。
 
 ## 個人での経験
 
-- オープンソースへのコミット
+- オープンソースへのコントリビュート
    - [Github PR](https://github.com/pulls?q=is%3Apr+author%3AFGtatsuro+-org%3AFGtatsuro)
    - [Vim Patch](https://github.com/vim/vim/commit/4f8301f6415e86631dadbc19066ba0bc8550df49)
       - Githubでホスティングされるより前にメーリングリストに投稿したパッチに相当するコミット
