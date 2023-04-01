@@ -548,6 +548,13 @@ Hadoop管理ノードの冗長化に関する調査を担当した。
 - 執筆
    - [Hadoop徹底入門 第2版 オープンソース分散処理環境の構築](https://www.amazon.co.jp/dp/479812964X)
 
+## メディア
+
+- [Github](https://github.com/FGtatsuro)
+- [Qiita](https://qiita.com/FGtatsuro)
+- [YOUTRUST](https://youtrust.jp/users/fgtatsuro)
+- [Twitter](https://twitter.com/FGtatsuro)
+
 ## その他
 
 (*)一部トップページと重複した記述あり
