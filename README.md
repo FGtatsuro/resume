@@ -19,6 +19,7 @@
   <img src="https://img.shields.io/badge/-Python-FFD700.svg?logo=Python&style=plastic">
   <img src="https://img.shields.io/badge/-Java-000000.svg?logo=OpenJDK&style=plastic">
   <img src="https://img.shields.io/badge/-Groovy-E6E6FA.svg?logo=Apache%20Groovy&style=plastic">
+  <img src="https://img.shields.io/badge/-Ruby-CC342D.svg?logo=ruby&style=plastic">
 </p>
 
 <p>
@@ -26,6 +27,7 @@
   <img src="https://img.shields.io/badge/-GCP-F8F8FF.svg?logo=googlecloud&style=plastic">
   <img src="https://img.shields.io/badge/-Docker-F0F8FF.svg?logo=Docker&style=plastic">
   <img src="https://img.shields.io/badge/-Terraform-FFF0F5.svg?logo=Terraform&style=plastic">
+  <img src="https://img.shields.io/badge/-Kubernetes-326CE5.svg?logo=kubernetes&style=plastic">
 </p>
 
 ---
