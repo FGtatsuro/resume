@@ -96,8 +96,9 @@ ECマーケットプレイスのインフラを担当した。
 
 ##### 技術スタック
 
-- Amazon Aurora MySQL
-- Amazon EC2
+- AWS
+   - Aurora MySQL
+   - EC2
 - Terraform
 - Ansible
 - Bash
